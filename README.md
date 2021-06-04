@@ -18,7 +18,7 @@
 
 实现效果图：
   
-  !image](https://github.com/tingge23/Test/blob/main/images/1622811135(1).png)
+  ![image](https://github.com/tingge23/Test/blob/main/images/1622811135(1).png)
   
 ## Project setup
 ```
