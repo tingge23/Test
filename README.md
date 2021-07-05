@@ -17,7 +17,6 @@
 7.实现持久化存储、刷新页面不会丢失
 
 实现效果图：
-  
   ![image](https://github.com/tingge23/Test/blob/main/images/1622811135(1).png)
   
 ## Project setup
